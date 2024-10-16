@@ -1,0 +1,13 @@
+name = "Structory"
+filename = "Structory_1.21.x_v1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/aVTpHwSJ/Structory_1.21.x_v1.3.6.jar"
+hash-format = "sha512"
+hash = "c8fd60cb8d115d6023c812500ad05ca1fa4151b124d34973049ee8150a730c3255cad44a5d8365760fffc426666303c817695754baf57cfabaab3e12ab2f02ea"
+
+[update]
+[update.modrinth]
+mod-id = "aKCwCJlY"
+version = "aVTpHwSJ"

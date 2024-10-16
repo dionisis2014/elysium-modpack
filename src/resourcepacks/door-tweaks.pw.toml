@@ -1,0 +1,13 @@
+name = "Door Tweaks"
+filename = "DoorTweaks-v3.4.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYTZC3GD/versions/X0GmkJmQ/DoorTweaks-v3.4.2.zip"
+hash-format = "sha512"
+hash = "4682ca942bf0e69243e12133633857d2f9b1bbc486ac93a5bb2ae7b64a19d49f11af46ad82ca0ab2715874102c7a97ddaf21f1414f07d29a8437a82f8b7d736a"
+
+[update]
+[update.modrinth]
+mod-id = "hYTZC3GD"
+version = "X0GmkJmQ"

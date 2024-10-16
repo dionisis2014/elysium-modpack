@@ -1,0 +1,61 @@
+{
+  "spreadFactor": 1,
+  "customSpreadFactors": [
+    {
+      "structure": "medieval_buildings:ship",
+      "factor": 2
+    },
+    {
+      "structure": "terralith:rare_village",
+      "factor": 2
+    },
+    {
+      "structure": "dungeons_arise:major_structures",
+      "factor": 3
+    },
+    {
+      "structure": "dungeons_arise:minor_structures",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:ocean_monuments",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:villages",
+      "factor": 1.5
+    },
+    {
+      "structure": "revampedvillages:villages",
+      "factor": 1.5
+    },
+    {
+      "structure": "mvs:small_ship",
+      "factor": 2
+    },
+    {
+      "structure": "structory:boat",
+      "factor": 2.5
+    },
+    {
+      "structure": "terralith:desert_outpost",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:end_cities",
+      "factor": 2
+    },
+    {
+      "structure": "medievalend:ship",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:stronghold",
+      "factor": 2
+    },
+    {
+      "structure": "nova_structures:end_castle",
+      "factor": 1.5
+    }
+  ]
+}

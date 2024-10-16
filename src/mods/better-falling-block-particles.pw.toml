@@ -1,0 +1,13 @@
+name = "Better Falling Block Particles"
+filename = "falling-block-particles-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S8CIQa7N/versions/vce9c6RL/falling-block-particles-1.0.2.jar"
+hash-format = "sha512"
+hash = "3045f2f99f7b9192e5384067d615262fa903012fc63b1d67bcf17906c5670ee22bde1b086998d4953d4f25faef31e96f116d1e26d01c442f00505b731c17537c"
+
+[update]
+[update.modrinth]
+mod-id = "S8CIQa7N"
+version = "vce9c6RL"

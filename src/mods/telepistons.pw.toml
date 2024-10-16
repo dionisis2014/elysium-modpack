@@ -1,0 +1,13 @@
+name = "Telepistons"
+filename = "Telepistons-1.1.3-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/23PBx0DP/versions/ESPyElwG/Telepistons-1.1.3-1.21.jar"
+hash-format = "sha512"
+hash = "e890970560fafb3e946e3697cc249badc2b7c104351b4318c0bdbfdb494772621be6111e7ffadf3c09aa2fba498774cf6ae13ec8ddf144ae04d3eb18a1db8b59"
+
+[update]
+[update.modrinth]
+mod-id = "23PBx0DP"
+version = "ESPyElwG"
