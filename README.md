@@ -1,6 +1,6 @@
 # Elysium
 
-![](res/logo.png)
+![](res/logo-version.png)
 
 ### _An opinionated Vanilla+ Minecraft modpack, with the goal of making survival feel like a real adventure_
 
