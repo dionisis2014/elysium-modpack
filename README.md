@@ -2,7 +2,7 @@
 
 ![](res/logo.png)
 
-An opinionated Vanilla+ Minecraft modpack, with the goal of making survival feel like a real adventure.
+### _An opinionated Vanilla+ Minecraft modpack, with the goal of making survival feel like a real adventure_
 
 ## Features
 
