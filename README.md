@@ -11,7 +11,7 @@
 - 🎶 New ambient sounds, music, UI effects and realistic sound physics to immerse yourself in the world
 - 📦 Preinstalled resource packs that enhance the visual aesthetics of the game
 - 🔮 Preinstalled shader packs with Distant Horizons compatibility that fit the vanilla theme of the modpack
-- 🔧 Tweaked structure generation to match new terrain generation
+- 🔧 Tweaked structure generation to match new terrain
 - 🚀 Included performance, graphics enhancement and bugfix mods
 - ✅ No new blocks or items added/. Vanilla clients can play normally on a modded server
 
