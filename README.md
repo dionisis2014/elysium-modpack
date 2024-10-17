@@ -6,11 +6,14 @@
 
 ## Features
 
-- Extends the base game with new biomes and structures while not adding any new items or blocks, enabling the modpack to
-  be used on a modded server while allowing vanilla clients to join
-- Preinstalled resource packs that enhance the visual aesthetics of the game
-- Preinstalled shader packs with Distant Horizons compatibility that fit the vanilla theme of the modpack
-- Tweaked structure generation to avoid the dreaded "overpopulation" of structures from using many mods at once
+- ⛰️ New terrain generation and biomes that leverage Distant Horizons to make the world more feel expansive
+- 🏰 Hundreds of new structures, including new village types, abandoned structures and new dungeons
+- 🎶 New ambient sounds, music, UI effects and realistic sound physics to immerse yourself in the world
+- 📦 Preinstalled resource packs that enhance the visual aesthetics of the game
+- 🔮 Preinstalled shader packs with Distant Horizons compatibility that fit the vanilla theme of the modpack
+- 🔧 Tweaked structure generation to match new terrain generation
+- 🚀 Included performance, graphics enhancement and bugfix mods
+- ✅ No new blocks or items added/. Vanilla clients can play normally on a modded server
 
 ## Installation
 
