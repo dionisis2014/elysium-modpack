@@ -568,6 +568,21 @@ hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "f08889988accf23a39c08c2934654553c8affc21bef5b33521d8997eeb33e95e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "dbd3b1b14b73db62bdaa232881a3295d02ad333849464179dadc43d9cb594379"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "eccab4f9bcbc604767e9794ca746588f673db63f85bd63adf0b505b396a3c23c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "17ea105b98d79a0be6ce20da3304f9ed1398c5d9d3ad24cea2c914a109ede78e"
 metafile = true
