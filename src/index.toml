@@ -578,8 +578,28 @@ hash = "818d503ef6cce9e01588042eb6fd8a6d96110dc3612926cb6e7f48806fb28207"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
+file = "resourcepacks/fresh-animations-extensions-creepers.pw.toml"
 hash = "e36f6f391fdf802df6ef11fcbf7d135bf883e400f30ad699314062a5ed3fe0d0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions-details.pw.toml"
+hash = "fc95044aea830d75e1ff7e6434a9a98a93e33a9a2f5878d51e596cfc160f82a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions-emissive.pw.toml"
+hash = "708a766e1cb0d7948c620723de569de9371234c98c9c62a0c0f4a6c434f0ea97"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions-objects.pw.toml"
+hash = "0cccb981179ca277c18a827d838026d0207b4d8d7a67b5f816304494d060f3d7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions-quivers.pw.toml"
+hash = "9031e5dfe5e4cd8e9949cfdfc4b2d8b00956b83cba47856517b806f4b25ce82b"
 metafile = true
 
 [[files]]
@@ -593,6 +613,10 @@ hash = "9fc6b88c15bedff90e20a837b4c834bbe9094bcfbdf23f908faaffbd19fb7d69"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bliss-development.pw.toml.dis"
+hash = "e960df3b1df43d6a410f322aff1412bb081c2f1dec537261807e98acb806ce00"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
@@ -601,3 +625,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
 metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml.dis"
+hash = "9b039827043f41dd6fba2a134e4f73b4a4591d7f7fdb0b3e6a9db1ac8ebcabc3"
