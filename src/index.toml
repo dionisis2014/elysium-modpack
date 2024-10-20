@@ -613,8 +613,9 @@ hash = "9fc6b88c15bedff90e20a837b4c834bbe9094bcfbdf23f908faaffbd19fb7d69"
 metafile = true
 
 [[files]]
-file = "shaderpacks/bliss-development.pw.toml.dis"
+file = "shaderpacks/bliss-development.pw.toml"
 hash = "e960df3b1df43d6a410f322aff1412bb081c2f1dec537261807e98acb806ce00"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
@@ -627,5 +628,6 @@ hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon-shader.pw.toml.dis"
+file = "shaderpacks/photon-shader.pw.toml"
 hash = "9b039827043f41dd6fba2a134e4f73b4a4591d7f7fdb0b3e6a9db1ac8ebcabc3"
+metafile = true
