@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bliss-development.pw.toml"
-hash = "e960df3b1df43d6a410f322aff1412bb081c2f1dec537261807e98acb806ce00"
+hash = "6b0f4f2a54767a36c3c5597c7d43b59a3dbbe2cb9e8d3ee2151c331556857d28"
 metafile = true
 
 [[files]]
