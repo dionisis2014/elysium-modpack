@@ -7,7 +7,7 @@ from pathlib import Path
 
 subprocess.run(['../packwiz', 'modrinth', 'export', '-o', '../Elysium-packwiz.mrpack', '-y'], cwd=Path('./src'), check=True)
 
-with (zipfile.ZipFile('Elysium-packwiz.mrpack', 'r') as src, zipfile.ZipFile('Elysium.mrpack', 'w') as dst):
+with (zipfile.ZipFile('Elysium-packwiz.mrpack', 'r') as src, zipfile.ZipFile('Elysium.mrpack', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as dst):
     for info in src.infolist():
         with src.open(info) as file:
             if info.filename == "modrinth.index.json":
