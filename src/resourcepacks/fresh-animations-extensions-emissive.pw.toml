@@ -1,13 +1,13 @@
 name = "Fresh Animations - Extensions"
-filename = "FA+Emissive-v1.2.zip"
+filename = "FA+All_Extensions-v1.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/YoYndZ6Q/FA%2BEmissive-v1.2.zip"
+url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/JrJx24Cj/FA%2BAll_Extensions-v1.4.zip"
 hash-format = "sha512"
-hash = "ced3e55e783a65ce67ff4d5f376814754109b86c2ee47cb0288a2efaafcb8029c1036457efac5a4b84acb2b59994f1b521bdf4ade05ecd4f5531eebca2137e93"
+hash = "99fd12d056846c5d7382fc333d0d62815bb3a9262888ccf7ebc9db9f02460f4a2ab0f7ccd7413b3b2b9c19e7f92db239cd3e7597a8dbcfb4fc1317a24796d5f8"
 
 [update]
 [update.modrinth]
 mod-id = "YAVTU8mK"
-version = "YoYndZ6Q"
+version = "JrJx24Cj"

@@ -1,13 +1,13 @@
 name = "Fresh Animations - Extensions"
-filename = "FA+Creepers-v1.1.zip"
+filename = "FA+All_Extensions-v1.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/bs8hvADq/FA%2BCreepers-v1.1.zip"
+url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/JrJx24Cj/FA%2BAll_Extensions-v1.4.zip"
 hash-format = "sha512"
-hash = "6e55d9bac13c031ec7632a666c13580e8a987c6e7125823d017ddcf1171df0fd3f7ffb6867dab7567686982042487ee9509b95b2763525cebc4366ed4b0c14e3"
+hash = "99fd12d056846c5d7382fc333d0d62815bb3a9262888ccf7ebc9db9f02460f4a2ab0f7ccd7413b3b2b9c19e7f92db239cd3e7597a8dbcfb4fc1317a24796d5f8"
 
 [update]
 [update.modrinth]
 mod-id = "YAVTU8mK"
-version = "bs8hvADq"
+version = "JrJx24Cj"

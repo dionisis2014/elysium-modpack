@@ -1,14 +1,14 @@
 name = "Elysium"
 author = "dionisis2014"
-version = "0.1.2"
+version = "0.2.0"
 description = "An opinionated Vanilla+ Minecraft modpack, with the goal of making survival feel like a real adventure"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "506e8bcec1a1ead758b02ee71a4659a08b89feff8f33f8975d503470e4860b6a"
+hash = "08b2802d2a7c87fe2080d2d8acabd5ac3ec2abefcd55b1eb8899795bee6882ce"
 
 [versions]
 minecraft = "1.21"
-quilt = "0.26.4"
+quilt = "0.28.0"
