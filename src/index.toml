@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "bc4d36e6be4f4f0a5c4ce6f307b7e5a5eaaa5c7b6406a045fca59cd2a449d5f9"
-
-[[files]]
 file = "config/capes.json5"
 hash = "6d10f63b676c25ceac57348a876bc1d5ea10359ea5e2e3877bc476345bf653ad"
 
 [[files]]
 file = "config/cavedust.json"
-hash = "b9ef92092e8d849996604c7bebd547f25b33d9441d1468de1f73ac89d4d9e038"
+hash = "1a4267fb2ea193221d97027471729a58d242674189c201cb7bc8d45bfbc1dde7"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -18,7 +14,7 @@ hash = "6e2d1c55bd608480841ffc436355fbc824861887f3dbc7b4bc20535672d5a91f"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "68ed6506734e198e0169e0ac71d50af7023d285629eda7513c6f286cd89d71f1"
+hash = "46441b6b8531fa9b2926529d70bd1497483c2a07a2ca38e7734fd91e5300392c"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -26,7 +22,7 @@ hash = "a5f3a742dedb62bfaf948372e5e80d0c2305420869bf2f04f0587f2ae39af298"
 
 [[files]]
 file = "config/fbp/config.json"
-hash = "72c4a41ef6157dc0b5434b670e5b2c4cddd89b7113446818af559f8c4d99c6d0"
+hash = "839ef5e93fdb27c326d6e218ab9d484987e7c6bde85bc32e5a0bc46f240b4e51"
 
 [[files]]
 file = "config/flow.config.json"
@@ -34,7 +30,7 @@ hash = "85029106f8e9c378e746c01446ae044846bf78bc267f0f7cdd9fca64a4dbbd13"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
-hash = "ff71d659f3c8af69832fbcb87138dd0f2c6915be2d85d6d9f171d9ec8d85940a"
+hash = "ed3e925c26532b7e65e4b5c3d526d0b9605f50c4dc240a7faa2dbd829ef0b319"
 
 [[files]]
 file = "config/particular.json5"
@@ -46,11 +42,11 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "77a3b4fefd3176ec7d44c356808d2a4450d2c441020086708fab6cb3cb278f28"
+hash = "8cf6192eda81b3a27737440cfdedc05c40a8c1b552583114c1aa6fb2673ca907"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "2da834172441c4d0d349517c78a7bd4e02aba7e4bcd3dd69961a19484840ecc3"
+hash = "485980c5626d5ee04aa36172a1635e287ea568f5edb5e30fa50237b00572cbec"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -66,7 +62,7 @@ hash = "fb3693b64e1f582b77c902cc9595765c57faa296770d5c18164005b3c50b8137"
 
 [[files]]
 file = "config/watut-client.toml"
-hash = "c9fbf41a5626335a15e3f54c84f8825389c79c5956bd31740daebde24a5d0eda"
+hash = "b488bf431f398fa495eac536df5ad097c3c5d7b21c36f33b13c0f0f4134695c7"
 
 [[files]]
 file = "config/watut-common.toml"
@@ -184,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6adf694696d6e82f3a08ae295a54697b4f6c14c02ebfd3978eb9017ffbee50af"
+hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
 metafile = true
 
 [[files]]
@@ -561,10 +557,6 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
 metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml.disabled"
-hash = "195ecb321be0a68f2409abc326e7117a163ab734aa0f5bce08c0aec82bbf0a9d"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
