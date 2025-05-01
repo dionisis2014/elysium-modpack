@@ -1,13 +1,13 @@
 name = "Better End Cities Vanilla"
-filename = "betterendcities-vanilla-1.21.jar"
+filename = "betterendcities-vanilla-1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/FEChYs43/versions/AQrPtVSv/betterendcities-vanilla-1.21.jar"
+url = "https://cdn.modrinth.com/data/FEChYs43/versions/mRLcEU5B/betterendcities-vanilla-1.21.1.jar"
 hash-format = "sha512"
-hash = "e5a6c14640d1bd507d7de180bee0047e3a87d4abf93261ee182f9373971c432e18ca1f309fab30a167b7e57138b6c8c74920315c8da3c799ffc92f5732664379"
+hash = "8b445776ed241129d5f88d25079c9497449a6799b2d8d90afc9e770e6e78bfd9eb01cc4ead2d70eb17e0d87fc8dcfa02ce4af28a2bed7848d5528182a387a8c8"
 
 [update]
 [update.modrinth]
 mod-id = "FEChYs43"
-version = "AQrPtVSv"
+version = "mRLcEU5B"

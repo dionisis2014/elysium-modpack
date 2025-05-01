@@ -1,13 +1,13 @@
 name = "Mace but 3D"
-filename = "macebut3d-1.21-1.0.0.jar"
+filename = "macebut3d-1.21.1-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6LzngQIs/versions/6h8g2LHm/macebut3d-1.21-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/6LzngQIs/versions/n59dvosn/macebut3d-1.21.1-1.0.1.jar"
 hash-format = "sha512"
-hash = "f8dac93974b57e524c9e78248893acca6d76b91993d81e7b40109a7b2b0d7ee71783c28964cbbd32bc7278a26fe3cb4d5e9710a1fb09d1cf901f4d8928adebe0"
+hash = "5f46fa859a41424b2e57b7721df7bea7a8c1a6991e5f619966b6bc65fedd9079fc558fbc029f0268e44dcb54f79f333c74ee32bdb6d5c2e7491ce957e5cec4c5"
 
 [update]
 [update.modrinth]
 mod-id = "6LzngQIs"
-version = "6h8g2LHm"
+version = "n59dvosn"

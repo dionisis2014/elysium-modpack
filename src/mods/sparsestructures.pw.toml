@@ -1,13 +1,13 @@
 name = "Sparse Structures"
-filename = "sparsestructures-fabric-1.21-2.2.0.jar"
+filename = "sparsestructures-fabric-1.21.1-3.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qwvI41y9/versions/ID6CCvs6/sparsestructures-fabric-1.21-2.2.0.jar"
+url = "https://cdn.modrinth.com/data/qwvI41y9/versions/61sUYSAI/sparsestructures-fabric-1.21.1-3.0.jar"
 hash-format = "sha512"
-hash = "11462a2855801e4b4f813c8f2425bc753bc7b10031e682e0ee09d112145a5a273257da5fffd0bcc93b42fc85c30aad322f6dc5ff743507febbd624a52a1b1bcb"
+hash = "ecf9fffddbff620630d174313ab144fd2e6f9a9ccdbc16395a423b38bfd010ee2375c54a262dfacc09aa7b9042de7aa51ad12ac112e2c0632bfd52f757331ee0"
 
 [update]
 [update.modrinth]
 mod-id = "qwvI41y9"
-version = "ID6CCvs6"
+version = "61sUYSAI"
