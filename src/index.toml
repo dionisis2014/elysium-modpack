@@ -119,6 +119,11 @@ hash = "d5a3483a820752fcbddd42b3532efe490b92b6a9e50ac501875764984a04f84b"
 metafile = true
 
 [[files]]
+file = "mods/blossom-blade.pw.toml"
+hash = "f6401818ae391915190fe169d5d2d8e9518ec4d48c6abc523a881715cfeb26b3"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
@@ -156,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "a07f5a28192fcedba35c2db7472b322b381827db29372393e9429ef13c056020"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "91a75f0b5bea7356c7c1018be47d506aa984d37fd0e6f0b8d3336ef71e8b3862"
 metafile = true
 
 [[files]]
@@ -454,6 +464,11 @@ hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
 
 [[files]]
+file = "mods/qraftys-japanese-villages.pw.toml"
+hash = "37961ef79215d8535a9e199471ee621e22f7b5d124b888f57584bb8ac0983e6f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
@@ -529,8 +544,18 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0cbfee517ef794590c79f407c060a42f9719e8533f730411761d3d429463af03"
+metafile = true
+
+[[files]]
 file = "mods/toadlib.pw.toml"
 hash = "c1c2a3b360519e52fd94f5845b44d81c08dd9c7dc5b04b6e75d90c86f71b74b2"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
 metafile = true
 
 [[files]]
@@ -571,6 +596,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "eccab4f9bcbc604767e9794ca746588f673db63f85bd63adf0b505b396a3c23c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "f0779c5ec85b19542d39dd3df11c0fd521c465f5da2bafc9d1a6250a30719cc6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "b7152fd543e5efd1233dfc49ddb690332d98bdb986b4b7a289565fbf3af6cbe5"
 metafile = true
 
 [[files]]
