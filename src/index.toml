@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f1cd14f50ca02adbc84ad0b78a540f4486fd0e38ed601bb27575c94811e48b87"
+hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7c704bf7840d0d091c9f532c45700b3256e3aab4ce35a4126133ed0201ced077"
+hash = "4c0e419f24a9568c99e993d917f1c5a80fd5e005ec5205fbef443daf6b2f36e3"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
+hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "0aa27cfe48f3b4a1a485e6fddeb5d806301204130ac51a1352abc10cb05ca1aa"
+hash = "e337058ca8f7d085fac6130de06428a9c57e0bf23a0ef8549078f0f3ae1e780e"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d055718e942dde85b22d4baabdc26e9744e4556304f10c70cc2e434b2806140a"
+hash = "8f3c00447b7f31e9ad52f306fe4d3e7d493cad898f67840f9f422abdccefc8e8"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "19bfaf808255bb6a5508cb2c861779c433a5ed58e7889755938dc12cb479e912"
+hash = "2a72d78e734a09f3034fa77d850cc252cad1bc2b146754491e4792959d4cff96"
 metafile = true
 
 [[files]]
@@ -585,27 +585,27 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-creepers.pw.toml"
-hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+hash = "9f796ff959b226cdf01790baa1c846e945005bd8237526f98a6c47b4b4d77432"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-details.pw.toml"
-hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+hash = "0be20dca580ce9a4e2d5b0a6f884948564cc4820af8e0ca7d344054af4dc7671"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-emissive.pw.toml"
-hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+hash = "2e3151d730243741bea3936115413c85f2bc9ec1547f0a546a56fdec939b36ca"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-objects.pw.toml"
-hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+hash = "20792af9caaca492866c4226916b724dc7238e899cd4108fa2c22fbad2a1ac17"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-quivers.pw.toml"
-hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+hash = "f5b2971fba447e0677022d0489ec91a1e1e5dbb0a2d460a445fb0141689ac7b7"
 metafile = true
 
 [[files]]

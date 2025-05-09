@@ -1,13 +1,13 @@
-name = "Fresh Animations - Extensions"
-filename = "FA+All_Extensions-v1.4.zip"
+name = "Fresh Animations - Extensions - Quivers"
+filename = "FA+Quivers-v1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/JrJx24Cj/FA%2BAll_Extensions-v1.4.zip"
+url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/JvU72euu/FA%2BQuivers-v1.1.zip"
 hash-format = "sha512"
-hash = "99fd12d056846c5d7382fc333d0d62815bb3a9262888ccf7ebc9db9f02460f4a2ab0f7ccd7413b3b2b9c19e7f92db239cd3e7597a8dbcfb4fc1317a24796d5f8"
+hash = "2fa6a4ee4e19b07dc0c044cafd9d9d9097d30ca042cc172a02aa70c6cf7270af896272c2e20fe7ff5e48a9dd18e4a4516ec632c94084f65a59bf5ae216dcca0f"
 
 [update]
 [update.modrinth]
 mod-id = "YAVTU8mK"
-version = "JrJx24Cj"
+version = "JvU72euu"
