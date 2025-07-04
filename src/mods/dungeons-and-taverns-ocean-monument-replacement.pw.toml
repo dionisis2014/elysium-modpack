@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns Ocean Monument Replacement"
-filename = "dungeons-and-taverns-ocean-monument-replacement-v1.2.jar"
+filename = "dungeons-and-taverns-ocean-monument-replacement-v1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/z6GJ3ycD/versions/eopGJVBy/dungeons-and-taverns-ocean-monument-replacement-v1.2.jar"
+url = "https://cdn.modrinth.com/data/z6GJ3ycD/versions/itCK7YcZ/dungeons-and-taverns-ocean-monument-replacement-v1.4.jar"
 hash-format = "sha512"
-hash = "03f07c95da6dedbc334690d424ef0e2dd4abce25e960e7967a9b2974146d189d0879f9b14da4c8c25f47de7683dd4ce16a85e12fc1091a1d761bde53dc120933"
+hash = "4bd24c81c7dcf8d66644eebe555a920fdcac2621b999bf834f28c6727bc4f2489ac343ef1f65deb918d64692eae1719d3c9a21ba139a8d565e61296222357196"
 
 [update]
 [update.modrinth]
 mod-id = "z6GJ3ycD"
-version = "eopGJVBy"
+version = "itCK7YcZ"

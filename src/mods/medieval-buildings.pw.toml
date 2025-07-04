@@ -1,13 +1,13 @@
 name = "Medieval Buildings"
-filename = "medieval_buildings-1.21-1.1.0-fabric.jar"
+filename = "medieval_buildings-1.21.X-1.1.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sc9lpPiU/versions/uTkZRRue/medieval_buildings-1.21-1.1.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/sc9lpPiU/versions/RD2xMuyX/medieval_buildings-1.21.X-1.1.0-fabric.jar"
 hash-format = "sha512"
-hash = "5e31218fbd89800ce0bc4958b0893f90996f6c50946c2cc5ead4a5c0598b67ce7951059d58964e489af5039fe03b5625ba190d6c67efda0a4d98e37fe39c1162"
+hash = "fbf00e4b82343edfd12d9feadcbab3e4dca6855a55c05adfd2f9131daefca265fb6338b110c8628fed114f95d26ab4427c87c0733bdda7911dd1531fc8a944b2"
 
 [update]
 [update.modrinth]
 mod-id = "sc9lpPiU"
-version = "uTkZRRue"
+version = "RD2xMuyX"

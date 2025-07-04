@@ -1,13 +1,13 @@
 name = "Medieval Buildings [End Edition]"
-filename = "fabric_medieval_buildings_end_edition-1.0.2-1.21.jar"
+filename = "medieval_buildings_end_edition-1.21.X-1.0.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bq6nqeOx/versions/8hbr14Hk/fabric_medieval_buildings_end_edition-1.0.2-1.21.jar"
+url = "https://cdn.modrinth.com/data/bq6nqeOx/versions/33plMyej/medieval_buildings_end_edition-1.21.X-1.0.2-fabric.jar"
 hash-format = "sha512"
-hash = "e5d4f00996c8b99e944bf6e3fbf287e605c7c6da8540a94a4a4e87783d4f29cb2f4929b760d4768bfdec0b3ce364f7dcd10df726403e8cd0966d216169f98e05"
+hash = "7d6cfca216822da655da95dd935b120411cd3f6e93566815b795ef62b04db98a69b5dbcd03ea6ce00d6f1a3ac4a649e47097050cb45290e2c12eab19a80d62b7"
 
 [update]
 [update.modrinth]
 mod-id = "bq6nqeOx"
-version = "8hbr14Hk"
+version = "33plMyej"

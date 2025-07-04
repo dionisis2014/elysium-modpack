@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns Desert Temple Replacement"
-filename = "dungeons-and-taverns-desert-temple-replacement-v1.2.jar"
+filename = "dungeons-and-taverns-desert-temple-replacement-v1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7JTDDmRT/versions/eY7abSSH/dungeons-and-taverns-desert-temple-replacement-v1.2.jar"
+url = "https://cdn.modrinth.com/data/7JTDDmRT/versions/uVBnhIo7/dungeons-and-taverns-desert-temple-replacement-v1.5.1.jar"
 hash-format = "sha512"
-hash = "af750f1c1eca2098ac91dede878c25c82a6f5e25a1be82cc86b95d3c48c374b2821e3e56cf9267b18b7e1c2a0e5057b3902dd5016d1a5ccfe87cccd0382bf784"
+hash = "762b507c1c62a010808ad410b33600a32bd0723b695806c162e797600484d1edfcd04584989d0374b3bb6cebfc2cece12a057777821210a47094b02c1725a6e2"
 
 [update]
 [update.modrinth]
 mod-id = "7JTDDmRT"
-version = "eY7abSSH"
+version = "uVBnhIo7"

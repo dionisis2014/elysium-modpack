@@ -1,13 +1,13 @@
 name = "qrafty's Japanese Villages"
-filename = "qraftys-japanese-villages-2.2.jar"
+filename = "qraftys-japanese-villages-3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar"
+url = "https://cdn.modrinth.com/data/6vWz8dzn/versions/g9iqhAMo/qraftys-japanese-villages-3.1.jar"
 hash-format = "sha512"
-hash = "c9ccc7dd1ee441d2d8ab55c77f52cfbf73180519ce38e50b1b988050023fc467fe548df14e85956ac8b2f5597070058b089d0b1a09023d8f0ea3a0e6bb3a8084"
+hash = "fadb2a5b567315aabe20f69bbacfc8a81ffe9a9298774022402601abcded4d8dd8d838537125b9f1d9f1e0d73246ce334d9eb421d1146086d9d675b1b918952d"
 
 [update]
 [update.modrinth]
 mod-id = "6vWz8dzn"
-version = "DZvNsLNf"
+version = "g9iqhAMo"

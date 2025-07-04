@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns Stronghold Overhaul"
-filename = "dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar"
+filename = "dungeons-and-taverns-stronghold-overhaul-v2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rYocd2LE/versions/3dymmAXs/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar"
+url = "https://cdn.modrinth.com/data/rYocd2LE/versions/eZabSTZt/dungeons-and-taverns-stronghold-overhaul-v2.3.jar"
 hash-format = "sha512"
-hash = "c5fcecf63e0fcaf028982c2d8886a741f2babe44afcdbd879cc7d4cec2739d510424adb97e0218151c930b2ba8cc26f8d08fbe367d92ef631c66a149df0574b0"
+hash = "32a003034769eb9bb66d47d7d8eec174932608ce785e69726ddd0277c5454d06ed030ea0156c003ad6bbcc6ee4dd81cf8794c6b60add56cdd991c3db042cb8e9"
 
 [update]
 [update.modrinth]
 mod-id = "rYocd2LE"
-version = "3dymmAXs"
+version = "eZabSTZt"
