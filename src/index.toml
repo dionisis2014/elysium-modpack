@@ -224,11 +224,6 @@ hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
@@ -304,11 +299,6 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
-file = "mods/fishing-real.pw.toml"
-hash = "e3eeb000a5fc658d24eaa0cbad05ef3dc6e9c512c53da5faac2576921a3b2c88"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
 metafile = true
@@ -356,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "4b67c06d2041eadb1ce4d504987cdbb37e5e7c63f2ef0a09debe434ae909eabb"
-metafile = true
-
-[[files]]
-file = "mods/mace-but-3d.pw.toml"
-hash = "d566d65c32658f8b6e445ab0261edb7c5488d931328767e2495b3c494501a74f"
 metafile = true
 
 [[files]]
