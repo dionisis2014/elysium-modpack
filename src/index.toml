@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-creepers.pw.toml"
-hash = "9f796ff959b226cdf01790baa1c846e945005bd8237526f98a6c47b4b4d77432"
+hash = "2d2de00ab68a15c8ed80f42ceab1055d04754e63143b1004f23ab2f175d123c6"
 metafile = true
 
 [[files]]
@@ -620,17 +620,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-emissive.pw.toml"
-hash = "2e3151d730243741bea3936115413c85f2bc9ec1547f0a546a56fdec939b36ca"
+hash = "a1c19c3f0d7c55cec426628cee91618b9f6f1dc5ce205536f8e824bbdd7c4cd8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-objects.pw.toml"
-hash = "20792af9caaca492866c4226916b724dc7238e899cd4108fa2c22fbad2a1ac17"
+hash = "8aa8d617e9806e91fd8608a0424647ad9d64e41be958bc04955892c4fc92625e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-quivers.pw.toml"
-hash = "f5b2971fba447e0677022d0489ec91a1e1e5dbb0a2d460a445fb0141689ac7b7"
+hash = "25783881105185d5a700e7f1e61c482569368b965e70653c89ec06780b691b52"
 metafile = true
 
 [[files]]
